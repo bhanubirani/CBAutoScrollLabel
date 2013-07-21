@@ -1,5 +1,7 @@
 ##AutoScrollLabel
 
+Credits: https://github.com/cbess/AutoScrollLabel
+
 Provides auto scrolling for text that may be clipped by the view. iOS 4.3 and greater, works with ARC and non-ARC projects.
 
 ![screenshot](https://github.com/cbess/AutoScrollLabel/raw/master/AutoScrollLabelDemo/screenshot.png)
